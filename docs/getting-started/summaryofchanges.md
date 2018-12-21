@@ -11,6 +11,14 @@ Zowe Open Beta includes the following releases:
 - [Version 0.9.1 (October 2018)](#version-0-9-1-october-2018)
 - [Version 0.9.0 (August 2018)](#version-0-9-0-august-2018)
 
+## Version 0.9.6 (January 2019)
+
+### What's new in the Zowe Desktop
+
+You can now obtain information about an application by right-clicking on an application icon and then clicking **Properties**.
+
+To view version information for the desktop, click the avatar in the lower right corner of the desktop.
+
 ## Version 0.9.5 (December 2018)
 
 Version 0.9.5 contains the following changes since the last version.
